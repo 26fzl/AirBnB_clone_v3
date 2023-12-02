@@ -1,8 +1,6 @@
-# `AirBnB_clone_v3`
-
-
-
-## Designing a RESTful API with Python and Flask
-
-![](https://bykowski.pl/wp-content/uploads/2021/06/api-przyklad-dzialania-1.jpg)
+AirBnB clone v3
+# AirBnB Clone - The Console
+## Authors
+Sara Yamil <sarayamil18@gmail.com>
+Fatima Zahra Lamrani <fatimazahralamrani26@gmail.com>
 
